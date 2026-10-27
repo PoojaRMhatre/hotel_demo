@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.com/</loc></url>
+  <url><loc>https://example.com/about.html</loc></url>
+  <url><loc>https://example.com/rooms.html</loc></url>
+  <url><loc>https://example.com/gallery.html</loc></url>
+  <url><loc>https://example.com/blog.html</loc></url>
+  <url><loc>https://example.com/contact.html</loc></url>
+  <url><loc>https://example.com/privacy-policy.html</loc></url>
+  <url><loc>https://example.com/terms.html</loc></url>
+  <url><loc>https://example.com/articles/weekend-getaway.html</loc></url>
+  <url><loc>https://example.com/articles/choosing-a-resort.html</loc></url>
+  <url><loc>https://example.com/articles/local-food.html</loc></url>
+  <url><loc>https://example.com/articles/day-trip-guide.html</loc></url>
+  <url><loc>https://example.com/articles/restful-stay.html</loc></url>
+  <url><loc>https://example.com/articles/family-break.html</loc></url>
+</urlset>
